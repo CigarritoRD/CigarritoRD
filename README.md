@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CigarritoRD
-- 👀 I’m interested in JavaScript, HTML, CSS, REACT, MySQL, PHP, C#
-- 🌱 I’m currently learning JavaScript, HTML, CSS, REACT, MySQL, PHP, C#
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JavaScript, HTML, CSS, REACT, MySQL, PHP
+- 🌱 I’m currently learning JavaScript, HTML, CSS, REACT, MySQL, PHP
 - 📫 How to reach me ...
 
 <!---
