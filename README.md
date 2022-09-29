@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maycolk Hernandez
+- <h1>👋 Hi, I’m Maycolk Hernandez</h1>
 - 👀 I’m interested in JavaScript, HTML, CSS, REACT, MySQL, PHP
 - 🌱 I’m currently learning JavaScript, HTML, CSS, REACT, MySQL, PHP
 - 📫 How to reach me Maycolk.hernandez@gmail.com
